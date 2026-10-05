@@ -1,0 +1,13 @@
+# Secrets — never commit these
+.env
+ezviz_session.json
+ezviz_media_key.json
+cameras.json
+state/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
